@@ -14,4 +14,4 @@ People start using our new chat, but they get confused because it is not possibl
 
 ## Last sprint
 We do not want anonymity anymore.
-- Add sender into the message.
+- Add sender name into the message.
